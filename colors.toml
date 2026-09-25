@@ -1,0 +1,37 @@
+mode = "dark"
+
+# Ultra Deluxe pack — foil gold wordmark + adventure-line yellow on office void.
+# Loud accent for Limine / borders; pastel ANSI + lifted darker_background
+# for OmaVT/TTY (same slot split as Doom Eternal / Asphalt / HEV / Caged / KI / MGR).
+accent = "#E8B838"
+selection = "#2A2418"
+muted = "#6A6458"
+
+background = "#12161C"
+dark_background = "#0C0F14"
+darker_background = "#141820"
+lighter_background = "#1C222C"
+
+foreground = "#E8E4D8"
+dark_foreground = "#7A7468"
+light_foreground = "#C8C2B4"
+bright_foreground = "#F8F4E8"
+
+hyprland_active_border = "rgba(E8B838ee) rgba(F5F0E0ee) 45deg"
+hyprland_inactive_border = "rgba(2A2418aa)"
+
+red = "#D05048"
+yellow = "#F0D048"
+orange = "#E8B838"
+green = "#6AAA70"
+cyan = "#70A8B8"
+blue = "#6A88A8"
+magenta = "#A87898"
+brown = "#8A6840"
+
+bright_red = "#E87870"
+bright_yellow = "#F8E068"
+bright_green = "#90C898"
+bright_cyan = "#98C8D4"
+bright_blue = "#90A8C8"
+bright_magenta = "#C898B0"
