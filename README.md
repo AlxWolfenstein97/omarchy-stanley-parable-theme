@@ -12,9 +12,8 @@ Back in his office, with nothing left to disobey, Stanley discovered this *Hypr*
 thing. Tiling windows. Quite productively, I might add — though I remain
 unconvinced he understood any of it. Still: we made a theme based on our
 adventures. **Ultra Deluxe foil gold → adventure-line yellow** on an office
-void. Same dual-accent border trick as Asphalt, HEV, Galuga, CS, Cyber Shadow,
-Doom 2016, Eternal, Caged, KI & MGR — different building. Different doors. Same
-narrator.
+void. Same dual-accent border trick as Asphalt, HEV, Galuga, CS, Cyber Shadow, Doom 2016, Eternal, Caged, KI, Rising, SF6, T2D & USFIV —
+different building. Different doors. Same narrator.
 
 The following are notes for Stanley, and for others who wish to install it on
 their [Omarchy](https://omarchy.org/) systems. Inspired by the look of *The
